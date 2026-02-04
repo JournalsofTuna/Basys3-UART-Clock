@@ -44,4 +44,5 @@ Projenin amacı, FPGA üzerindeki **BRAM (Block RAM)** kaynaklarını bir ROM (L
 Bu projenin geliştirilmesinde, özellikle UART veri yakalama mantığı ve BRAM adresleme mimarisi üzerine Google Gemini ile pair-programming yapılmıştır.
 
 ---
+
 *Geliştirici: Muhammed Tunahan Aydemir*
