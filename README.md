@@ -46,3 +46,4 @@ Bu projenin geliştirilmesinde, özellikle UART veri yakalama mantığı ve BRAM
 ---
 
 *Geliştirici: Muhammed Tunahan Aydemir*
+
